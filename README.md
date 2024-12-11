@@ -7,5 +7,15 @@
 - coroutines 
   - easier to read 
   - same as fork/join code 
+- async programming 
+  - callback 
+  - future
+    - easier than callback
+  - virtual thread 
+  - coroutines
+    - structure concurrency 
+    - fluid code / natural code 
+    - cancel work 
+    - switch threads
 
 
