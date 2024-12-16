@@ -19,5 +19,7 @@
     - switch threads
   - virtual thread
     - similar to coroutines, added in java 21
+- first coroutines
+  - use the 'launch' coroutines builder
 
 
