@@ -7,15 +7,17 @@
 - coroutines 
   - easier to read 
   - same as fork/join code 
+  - there is a link between suspense functions and coroutines
 - async programming 
   - callback 
   - future
     - easier than callback
-  - virtual thread 
   - coroutines
     - structure concurrency 
     - fluid code / natural code 
     - cancel work 
     - switch threads
+  - virtual thread
+    - similar to coroutines, added in java 21
 
 
